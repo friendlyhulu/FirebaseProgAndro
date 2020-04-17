@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "489886757916",
+    "firebase_url": "https://mahasiswa-b1a84.firebaseio.com",
+    "project_id": "mahasiswa-b1a84",
+    "storage_bucket": "mahasiswa-b1a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489886757916:android:7f4fbb839dcfb862e69bd9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489886757916-vb0p3chk8eg458gfs0dfo6nrfm0e6o7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZTlpJ4dZcDTaEc-KliDeNYa1FQ2yBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489886757916-vb0p3chk8eg458gfs0dfo6nrfm0e6o7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489886757916:android:f844fe61444072dee69bd9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489886757916-vb0p3chk8eg458gfs0dfo6nrfm0e6o7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZTlpJ4dZcDTaEc-KliDeNYa1FQ2yBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489886757916-vb0p3chk8eg458gfs0dfo6nrfm0e6o7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
